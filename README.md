@@ -28,4 +28,5 @@ This Python program allows users to convert currencies between **Rupiah**, **Dol
 5. After completing a conversion, the program asks if the user wants to perform another conversion. If the user inputs `ya`, the program repeats. Otherwise, it ends.
 
 ## Example Output
+![radnom money](https://github.com/user-attachments/assets/8b1b5660-9460-4d10-a045-d21f5deda510)
 
